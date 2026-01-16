@@ -31,13 +31,14 @@ Este módulo obtiene datos (ranking FIFA), los almacena localmente y los expone 
 
 ```
 Scraping/
+├── 📁 __pycache__/
 │
-├── api.py
-├── scraper.py
-├── fifa_ranking.json
-├── ranking.db
-├── requerimeintos.txt
-└── __pycache__/
+├── 📄 .gitignore
+├── 📄 api.py
+├── 📄 fifa_ranking.json
+├── 📄 ranking.db
+├── 📄 requerimientos.txt
+└── 📄 scraper.py
 ```
 
 ---
